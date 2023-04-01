@@ -1,0 +1,2 @@
+# GraphQLDemoApp
+GraphQLを活用したモデルの検証用リポジトリ
